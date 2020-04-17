@@ -1,3 +1,2 @@
 # Projekt_DP
-Natalia Mrożek
-Natalia Mitas
+Natalia Mrożek i Natalia Mitas
